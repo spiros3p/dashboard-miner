@@ -96,7 +96,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://spiros3p.github.io/dashboard-miner/",
+            "baseHref": "http://miners.tpsflavor.gr/",
             "name": "Spyridon Peppas",
             "email": "spiros3p@gmail.com"
           }
